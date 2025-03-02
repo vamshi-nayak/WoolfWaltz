@@ -16,7 +16,7 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
     And that's how it looks🤩
  </p>
  <p align="center">
- <href = https://woolf-waltz.vercel.app/>
+ <link= https://woolf-waltz.vercel.app/>
   </p>
 
  <p align="center">
