@@ -15,10 +15,10 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
  <p align="center">
     And that's how it looks🤩
  </p>
- ## Deployment
-
+ 
+<p aligh="center">
 🔗 **Live Demo:** [Click here to view](https://woolf-waltz.vercel.app/)
-
+</p>
 
  <p align="center">
  Saw all the other pages?🧐 Go check it out now!🥳 
