@@ -12,6 +12,12 @@ With a passion for fashion here's my very own custom website relating to it.💃
 Merlin Fashion doesn't include anything related to database, it is just a HTML, CSS and JS template. Though you can find some familiar images used in the website taken from various sources, but the purpose is to only make it more beautiful.🖤
 
  </p>
+ <p align="center">
+    And that's how it looks🤩
+ </p>
+ <p align="center">
+ <href = https://woolf-waltz.vercel.app/>
+  </p>
 
  <p align="center">
  Saw all the other pages?🧐 Go check it out now!🥳 
