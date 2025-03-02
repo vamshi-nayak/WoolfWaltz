@@ -16,8 +16,8 @@ Merlin Fashion doesn't include anything related to database, it is just a HTML, 
     And that's how it looks🤩
  </p>
  
-<p aligh="center">
-🔗 **Live Demo:** [Click here to view](https://woolf-waltz.vercel.app/)
+<p align="center">
+🔗 **Live Demo:**(https://woolf-waltz.vercel.app/)
 </p>
 
  <p align="center">
